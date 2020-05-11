@@ -1,6 +1,7 @@
 {
   "name": "react-simple-loader",
   "version": "0.0.1",
+  "sideEffects": false,
   "license": "MIT",
   "scripts": {
     "build": "webpack",
